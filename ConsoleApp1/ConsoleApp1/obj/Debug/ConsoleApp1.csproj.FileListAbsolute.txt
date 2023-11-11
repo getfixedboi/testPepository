@@ -1,0 +1,7 @@
+C:\Users\vladp\testproject\testPepository\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\vladp\testproject\testPepository\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\vladp\testproject\testPepository\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\vladp\testproject\testPepository\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\vladp\testproject\testPepository\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\vladp\testproject\testPepository\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\vladp\testproject\testPepository\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
